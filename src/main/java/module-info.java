@@ -1,4 +1,4 @@
-module java.proyectoprogramacion25 {
+/*module java.proyectoprogramacion25 {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
